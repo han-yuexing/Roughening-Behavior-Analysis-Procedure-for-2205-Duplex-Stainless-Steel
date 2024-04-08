@@ -1,6 +1,14 @@
 # Roughening-Behavior-Analysis-Procedure-for-2205-Duplex-Stainless-Steel
 # 工程文件说明
 
+## Paper
+
+The work has been published. If you use the software for your research, please cite the reference as follows:
+
+Yuexing Han*, Chuanbin Lai, Bing Wang, Hui Gu. Segmenting Images with Complex Textures by Using Hybrid Algorithm [J]. Journal of Electronic Imaging, 28(1):13-30,2019
+
+E-mail address of Han Yuexing: hanyuexing@gmail.com
+
 本工程包含以下文件：
 
 ## 文件列表
