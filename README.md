@@ -1,14 +1,15 @@
 # Roughening-Behavior-Analysis-Procedure-for-2205-Duplex-Stainless-Steel
-# 工程文件说明
+
 
 ## Paper
 
 The work has been published. If you use the software for your research, please cite the reference as follows:
 
-Yuexing Han*, Chuanbin Lai, Bing Wang, Hui Gu. Segmenting Images with Complex Textures by Using Hybrid Algorithm [J]. Journal of Electronic Imaging, 28(1):13-30,2019
+Han Y, Chi R, Chen Q, et al. Microstructural evolution and coarsening behavior of the precipitates in 2205 duplex stainless steel aged at 850° C[J]. Journal of Materials Research and Technology, 2023, 26: 2560-2574.
 
 E-mail address of Han Yuexing: hanyuexing@gmail.com
 
+# 工程文件说明
 本工程包含以下文件：
 
 ## 文件列表
